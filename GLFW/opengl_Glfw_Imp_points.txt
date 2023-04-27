@@ -1,0 +1,2 @@
+in compatibility version no vertedArrayObject (vao) is needed to be created 
+cause there is already a default vao created , but in core version vao is to be created to render graphics or a basic triangle.
